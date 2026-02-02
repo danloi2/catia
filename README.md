@@ -1,5 +1,9 @@
 # Catia: Training Workshop for Artificial Intelligence in Education 🎓
 
+![Jupyter Book](https://img.shields.io/badge/Built%20with-Jupyter%20Book-blue?logo=jupyter)
+![MyST](https://img.shields.io/badge/Powered%20by-MyST-orange?logo=markdown)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
+
 > *«Ad discendum quod opus est nulla mihi aetas sera videri potest»* > (No age seems to me too late to learn what is necessary).
 > — **Saint Augustine (354-430)**
 
